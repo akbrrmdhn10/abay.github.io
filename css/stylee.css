@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nobile', sans-serif;
+}
+
+body {
+    color: white;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.text-box {
+    color: white;
+    text-align: center;
+}
+
+.button a{
+    font-family: 'Nobile', sans-serif;
+    color:black;
+    justify-content: center;
+    background-color: #6d876d; 
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
